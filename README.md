@@ -2,6 +2,10 @@
 
 This Python program implements a solver for a hexagonal maze treasure hunt using the A* search algorithm. The maze includes treasures to collect, traps with various effects, rewards that reduce movement costs, and obstacles that block paths. The program provides an interactive visualization of the maze and the computed optimal path using Matplotlib.
 
+## Maze Overview
+
+![Maze Preview](images/maze.png)
+
 ## Features
 - **Hexagonal Grid Navigation**: Implements proper neighbor calculations for a hexagonal grid layout.
 - **A* Pathfinding**: Finds the optimal path to collect all treasures, supporting multiple optimization modes:
