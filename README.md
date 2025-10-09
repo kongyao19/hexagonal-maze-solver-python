@@ -4,7 +4,8 @@ This Python program implements a solver for a hexagonal maze treasure hunt using
 
 ## Maze Overview
 
-![Maze Preview](images/maze.png)
+![Maze Preview](https://github.com/samuellee-e/Hexagonal-Maze-Treasure-Hunt-Solver/blob/main/images/maze.png)
+
 
 ## Features
 - **Hexagonal Grid Navigation**: Implements proper neighbor calculations for a hexagonal grid layout.
