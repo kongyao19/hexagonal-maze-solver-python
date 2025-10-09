@@ -4,7 +4,7 @@ This Python program implements a solver for a hexagonal maze treasure hunt using
 
 ## Maze Overview
 
-![Maze Preview](https://github.com/samuellee-e/Hexagonal-Maze-Treasure-Hunt-Solver/blob/main/images/maze.png)
+![Maze Preview](map.png)
 
 
 ## Features
