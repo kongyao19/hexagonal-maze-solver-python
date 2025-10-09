@@ -9,7 +9,7 @@ This Python program implements a solver for a hexagonal maze treasure hunt using
 
 ## Features
 - **Hexagonal Grid Navigation**: Implements proper neighbor calculations for a hexagonal grid layout.
-- **A* Pathfinding**: Finds the optimal path to collect all treasures, supporting multiple optimization modes:
+- **A\* Pathfinding**: Finds the optimal path to collect all treasures, supporting multiple optimization modes:
   - `steps`: Minimizes the total number of steps.
   - `energy`: Minimizes the total energy consumed.
   - `combined`: Balances steps and energy for an overall optimal path.
@@ -61,7 +61,7 @@ This Python program implements a solver for a hexagonal maze treasure hunt using
 
 ## How It Works
 1. **Maze Setup**: The maze is represented as a dictionary mapping `(row, col)` coordinates to cell information (content and valid moves).
-2. **A* Algorithm**:
+2. **A\* Algorithm**:
    - Uses a `State` class to track position, path, steps, energy, collected treasures, active effects, and remaining energy.
    - Implements a heuristic function to estimate the cost to collect remaining treasures, considering different visit orders.
    - Handles trap and reward effects, including teleportation for Trap3.
