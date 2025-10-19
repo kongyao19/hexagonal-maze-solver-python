@@ -156,7 +156,7 @@ The challenges faced during development, particularly with hexagonal grid mathem
 - Swee Shi Yi 
 - Tong Zi Qian
  
-**Institution**: Sunway University, Faculty of Engineering and Technology, BSc (Hons) Computer Science  
+**Institution**: Sunway University, Faculty of Engineering and Technology, BSc (Hons) in Computer Science  
 **Course**: CSC3206 - Artificial Intelligence  
 **Academic Session**: April 2025  
 
