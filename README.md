@@ -38,8 +38,8 @@ python --version
 **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/hexagonal-maze-astar-solver.git
-cd hexagonal-maze-astar-solver
+git clone https://github.com/kongyao19/hexagonal-maze-solver-python.git
+cd hexagonal-maze-solver-python
 ```
 
 **Install dependencies**:
@@ -154,7 +154,8 @@ The challenges faced during development, particularly with hexagonal grid mathem
 - Lim Yi 
 - Samuel Lee Zhi Jian 
 - Swee Shi Yi 
-- Tong Zi Qian 
+- Tong Zi Qian
+ 
 **Institution**: Sunway University, School of Engineering and Technology, BSc (Hons) Computer Science  
 **Course**: CSC3206 - Artificial Intelligence  
 **Academic Session**: April 2025  
