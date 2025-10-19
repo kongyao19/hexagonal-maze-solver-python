@@ -51,7 +51,7 @@ pip install matplotlib
 **Run the solver**:
 
 ```bash
-python asgm2.py
+python hexagonal_maze_solver.py
 ```
 
 **Select optimization mode** when prompted:
